@@ -6,3 +6,15 @@
  git status
  rm python.py
  git status
+ git restore python.py
+ history
+ git status
+ git add git_command1.txt
+ git status
+ git commit -m "added git command"
+ git status
+ git remote add origin https://github.com/krishankumargupta111/...
+ git remote -v
+ git remote set-url origin https://ghp_vJg6S66eR1JRV5ZGrpFkiMIw...
+ git remote -v
+ git push origin master
